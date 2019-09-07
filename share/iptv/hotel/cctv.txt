@@ -1,0 +1,18 @@
+央视频道,#genre#
+CCTV2,http://219.135.208.218:8083/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV3,http://219.135.208.218:8083/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV5,http://219.135.208.218:8083/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV7,http://219.135.208.218:8083/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV8,http://219.135.208.218:8083/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV9,http://124.90.208.196:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV9,http://219.135.208.218:8083/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV10,http://124.90.208.196:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV11,http://124.90.208.196:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV12,http://124.90.208.196:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV12,http://219.135.208.218:8083/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV13,http://124.90.208.196:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV13,http://219.135.208.218:8083/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV14,http://124.90.208.196:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV14,http://219.135.208.218:8083/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
+CCTV15,http://124.90.208.196:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0 # speed: 0.001 MB/s
+CCTV15,http://219.135.208.218:8083/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0 # speed: 0.001 MB/s
